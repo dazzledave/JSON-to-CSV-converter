@@ -22,4 +22,4 @@ A simple Python script that converts JSON data into CSV format. This tool is per
 1. Clone this repository or download the script.
 2. Place the JSON file (`test_data.json`) in the same directory as the script.
 3. Run the script using the following command:
-   ''' python json_to_csv.py
+   ``` python json_to_csv.py
