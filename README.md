@@ -1,6 +1,6 @@
 # JSON to CSV Converter
 
-A simple Python script that converts JSON data into CSV format. This tool is perfect for quickly transforming structured JSON data into a format that's easier to analyze or share.
+A simple Python script that converts JSON data into CSV format.
 
 ---
 
@@ -14,7 +14,7 @@ A simple Python script that converts JSON data into CSV format. This tool is per
 
 ## How to Use
 
-### Prerequisites
+### What you need
 - Python 3.x installed on your system.
 - A JSON file to convert.
 
@@ -22,4 +22,4 @@ A simple Python script that converts JSON data into CSV format. This tool is per
 1. Clone this repository or download the script.
 2. Place the JSON file (`test_data.json`) in the same directory as the script.
 3. Run the script using the following command:
-   ``` python json_to_csv.py
+   `python json_to_csv.py`
